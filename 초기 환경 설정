@@ -1,6 +1,7 @@
 Windows엣에서 Ubuntu Grub 설정을 제거하여 초기 설정으로 되돌리기
   -linux 영역 삭제 후 bootmgr is missing 발생, diskpart 및 기타 명령어 수행으로 정상화 불가 함.
   -웹 검색과 HP Engineer의 도움을 받아야 해결할 수 있을 것으로 판단된다.
+  -해결 후 Norton Ghost로 전체 백업을 하여야 한다.
 Windows XP 초기 이미지 별도 보관(무한 라이센스 갱신용으로 사용)
   - Nateon Rsupport 무한갱신
 (완료)AWS Key 변환 후 터미널에 접속할 수 있어야 한다.
