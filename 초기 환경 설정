@@ -1,0 +1,57 @@
+Windows XP 초기 이미지 별도 보관(무한 라이센스 갱신용으로 사용)
+  - Nateon Rsupport 무한갱신
+(완료)AWS Key 변환 후 터미널에 접속할 수 있어야 한다.
+  - Ubuntu ,OS로 변경 후 접속 재설정을 하였다. FTP 전송환경도 구축해 놓았다.
+Yahoo 계정 생성시 다음의 메세지 나오는 부분 "Unable to process request at this time -- error 999"
+Yahoo 계정 생성 후 블랙베리와의 웹 동기화가 필요하다.
+Eclipse의 소스 변경사항을 기록함 - Github 연동 : 사용법에 관한 숙지가 필요하다.
+  - github는 웹과 로컬의 프로그램 두 군데의 Repository에서 Sync 될 수 있다.
+  - FamilyTravel이라는 Git을 생성하였으며 Eclipse, GitHub, Local GitHub 연동을 해 놓았다. 
+GITHUB에서 언급된 기술과 라이센스의 종류에 관한 조사가 필요하다. 
+  - D:\01.DOCUMENTATION\PLANNING_DOCUMENTATIONS\gitignore_and_license.xlsx
+간단한 설문지 사이트 : http://pc.asked.kr/
+(하고있다.)drupal 서비스 올리기
+  - (했다.)aws rout53에서 도메인 재설정하기 (바뀐도메인으로 설정)
+  - (하고있다.)Drupal 7.34 버전을 설치 후 기본 설정하기.
+    * settings.php 파일 인식 불가 -> 내부 데이터베이스 연결 설정 변경 해 본다.
+      -> 인식되지 않는다. -> 내부 커뮤니티에 관련 글을 질의하여 진행하여 본다.
+    * Notepad++에서 ec2 서버로 ftp 연결 수정되게끔 설정을 해 본다.
+      Filezilla에서는 되고 Notepad++에서는 안되는 이유는 무엇일까? 아래는 오류 메시지 이다.
+      Connecting
+      [SFTP] Host key accepted
+      [SFTP] Error during authentication: Invalid private key file.
+      Unable to connect
+      Disconnected
+  - (해야한다.)Piwik 설정하여 외부 사용자 유입 모니터링하기.
+  - (해야한다.)Drupal의 특정 웹사이트를 벤치마킹하기(유사하게 꾸미되 컨텐츠는 자신에게 맞게 수정하기)
+  - (해야한다.)콘텐츠를 생각하여 보기.
+  - (해야한다.)AWS의 모든 기능을 사용해 본다.
+  - Ubuntu에서 Drupal이 정상적으로 되지 않으니 다른 OS로 설치를 진행하여 본다.
+     Windows Server로 하여 본다. 접속 패스워드 aCpu7!GN;L=
+       * ftp 서버 설정하여야 한다.
+AWS DB서버 분리
+  - 기존 MySQL에서 AWS RDS로 분리
+AWS로 파일전송시 잦은 실패(파일전송) 실패로 인하여 전송시에는 하나의 파일로 압축 후 전송하는 습관을
+들이는 것이 좋다.
+가족용 홈페이지 : XE 엔진으로 만들기 (사진게시판 위주)
+  - xe용 데이터베이스 접속 정보 확인 후 xe 설정에 해당 정보에 입력을 한다.
+  - xe 기본 엔진 설정하였음 (관리자 로그인 되지 않는다.)
+  - 외부접속(Heidi SQL)이 되지 않아 관리에 불편하다.
+  - xe 기반에서 drupal과 같은 그룹으로 변경하기. drupal이 적용 되지 않을 시 해외의 다른 무료 오픈 소스
+     플랫 폼 찾아보기. -> 시간이 걸리더라도 완전 오프소스 기반 웹 플랫폼으로 구성하여야 한다.
+AWS Email 계정 변경 기존 agnosticism.kms@icloud.com에서 hessed.kms@gmail.com으로 변경한다.
+오픈소스 클라우드 서비스 구축
+VisualBasic 무료버전 설치 및 설정
+  - 설치하였다.
+AWS 기반 모바일 채팅 서비스 
+PC 소스 자동 리포팅 프로그램 환경 구축
+  - 정기적으로 PC의 자원(CPU, 메모리, 네트워크, 저장공간)의 사용량을 체크해 로그로 떨어뜨려 주는 
+     프로그램 및 배치파일 작성.
+간트 차트 사용하여 시스템 구축에 관한 구체적, 시각화적인 도표 작성하기.
+잘 된 시스템을 많이 사용해 보고 그것을 기초로 좀 더 새롭고 독창적인 시스템을 만드는 것을 목표로 한다.
+  - 네이버(일정관리, 가계부), 라인, T클라우드
+R Studio 설치
+  - Local PC에서 사용할 수 있도록 한다.
+  - AWS에 Datawarehouse를 구성할 수 있도록 한다.
+사무업무 : 내용의 정확도와 신뢰도를 우선시하며 시인성 등을 보완해 나가도록 한다.
+기술업무 : 기술의 구현, 정확도 및 UI, UX 등의 보완의 순서로 업무를 향상시킨다.
