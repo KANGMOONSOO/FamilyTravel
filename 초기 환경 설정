@@ -36,7 +36,16 @@ GITHUB에서 언급된 기술과 라이센스의 종류에 관한 조사가 필�
        * PHP Server For IIS 설치 후 초기 페이지 확인하였다.
        * Windows Server 2008 R2 64 Bit로 OS Reinstall하여 after wplilauncher running and wpilauncher로 
          drupal 7 설치 진행
-AWS DB서버 분리
+       * 해당 서버에 Drupal 기본 설치를 하였다. 
+         하지만 AWS EC2와의 연동에 좀 더 설정을 해줘야 할 것으로 보인다.
+         아마 iis 설정과 security group의 inbound 설정 일 것 같다.
+         설정 후 로컬 웹브라우저에서 해당 서버의 ip로 접근하였을 때
+         Drupal의 기본 페이지가 보이면 해당 서버와 ec2와의 통신은 
+         정상인 것으로 판단한다.
+         후에 무료 도메인에서 도메인 alias를 주어 연결하면 drupal 기본 설정은
+         완료된 것으로 본다.
+         AWS DB서버 분리
+         
   - 기존 MySQL에서 AWS RDS로 분리
 AWS로 파일전송시 잦은 실패(파일전송) 실패로 인하여 전송시에는 하나의 파일로 압축 후 전송하는 습관을
 들이는 것이 좋다.
