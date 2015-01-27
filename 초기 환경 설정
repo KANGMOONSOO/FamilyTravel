@@ -34,6 +34,8 @@ GITHUB에서 언급된 기술과 라이센스의 종류에 관한 조사가 필�
      Windows Server로 하여 본다. 접속 패스워드 aCpu7!GN;L=
        * ftp 서버 설정하여야 한다.
        * PHP Server For IIS 설치 후 초기 페이지 확인하였다.
+       * Windows Server 2008 R2 64 Bit로 OS Reinstall하여 after wplilauncher running and wpilauncher로 
+         drupal 7 설치 진행
 AWS DB서버 분리
   - 기존 MySQL에서 AWS RDS로 분리
 AWS로 파일전송시 잦은 실패(파일전송) 실패로 인하여 전송시에는 하나의 파일로 압축 후 전송하는 습관을
