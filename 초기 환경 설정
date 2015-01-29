@@ -50,7 +50,7 @@ GITHUB에서 언급된 기술과 라이센스의 종류에 관한 조사가 필�
          예외상황 발생 : 해당 서버에서는 Administrator 계정으로 정상 로그인 되나 
                          외부에서 접근 시 로그인이 되지 않는다. 원인이 뭘까?
                          Windows Server에서 로그를 확인해 본다.
-          사진 앨범 만들기, 사진작업용PC(중고장터 제품)
+          사진 앨범 만들기, 사진작업용PC(중고장터 제품, 비아코 미니PC Mini Letter 65 G2030R4 Sample)
          AWS DB서버 분리
          
   - 기존 MySQL에서 AWS RDS로 분리
