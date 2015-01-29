@@ -45,6 +45,7 @@ GITHUB에서 언급된 기술과 라이센스의 종류에 관한 조사가 필�
          후에 무료 도메인에서 도메인 alias를 주어 연결하면 drupal 기본 설정은
          완료된 것으로 본다. 
          172번 : D;ThTL)rWqU 
+       * Drupal 초기 서비스를 안정적으로 Launch 하였다. 
          AWS DB서버 분리
          
   - 기존 MySQL에서 AWS RDS로 분리
