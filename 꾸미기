@@ -1,0 +1,4 @@
+Heidi SQL Tool 설치
+  - 내부 서버에 HeidiSQL을 설치하여 쿼리 조회를 쉽게 하였다.
+    외부 Local에서 EC2로의 접속이 가능하게 끔 하여야 한다. 
+    Windows Server 이므로 SSH 터널 적용 안된다. 다른 방법 찾아야 할 듯 한다.
