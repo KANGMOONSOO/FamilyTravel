@@ -8,6 +8,7 @@ Heidi SQL Tool 설치
 
   1. HESSEDKMS 로고를 만든다.
   2. 임시 템플릿을 적용한다.
+  3. Login Module Hide 처리
 
 해결해야 하는 증상
   - 54.64.52.172(Windows Serve 2012 R2)에서
