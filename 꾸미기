@@ -19,3 +19,6 @@ FamilyTravel 사이트 구축에 관한 소스 관리는
     http://localhost/acquia-drupal7/으로 접속시에는 정상적으로 Adminstrator 페이지로 접속이 되나
     http://hessedkms.pa5.kr/로 접속 시 정상적인 Administrator 페이지로 접근이 되지 않는다.
     원인을 찾아서 도메인으로도 외부에서 정상적으로 접근하게끔 수정하여야 한다.
+
+Gallery 게시판을 설치하였다. 
+  - Node Gallery를 사용하였으나 다중 업로드가 되지 않는 불편함이 있다.
