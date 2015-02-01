@@ -3,5 +3,6 @@
 opensource 기반의 웹사이트와 free trial을 제공하는 서비스의 
 경우 사용 기간에 제약이 걸려있는 경우가 많으므로 각 소스의 위치 및 중요 propertie를 정리 및 백업하여 올려 놓는 구조가 필요하다.
 
+AWS Free Tier 기간 확인
 여유가 될 때 Openstack 기반으로 재 구축을 동시에 진행 하여야 한다.
   - AWS의 보완 
