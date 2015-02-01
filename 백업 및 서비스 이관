@@ -6,3 +6,6 @@ opensource 기반의 웹사이트와 free trial을 제공하는 서비스의
 AWS Free Tier 기간 확인
 여유가 될 때 Openstack 기반으로 재 구축을 동시에 진행 하여야 한다.
   - AWS의 보완 
+
+Windows 2012 Server 경우 Zconverter를 이용하여 백업을 할 수 있도록 한다.
+  - 1년 무료 이용을 하도록 한다.
