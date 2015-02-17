@@ -7,3 +7,6 @@ S3를 이용하여 파일 서비스를 이용하여 본다. 이용해 보았다.
 두 가지 방향으로 생각한다.
   - Windows Server를 이용한 Private/Public 서버 구축
   - Openstack을 이용한 Private 클라우드 서비스 구축
+
+mariadb를 설치하였다.
+Openstack을 devstack로 설치하는 도중오류가 발생(keystone 관련 오류 : 559)하여 중단하였다.
